@@ -1,0 +1,24 @@
+{
+  "title": "Jungus Theory CN v1.0 Public Copyright and Priority Record",
+  "version": "v1.0",
+  "record_date": "2026-06-27",
+  "language": "zh-CN",
+  "claimant": "Zhihan Cui",
+  "orcid": "https://orcid.org/0000-0003-0883-2322",
+  "official_site": "https://www.jungus.cn/",
+  "theory_url": "https://www.jungus.cn/theory/",
+  "scope": [
+    "Jungus theory articles",
+    "Jungus 16-function theory pages",
+    "Jungus 64-type descriptions",
+    "temperament and interaction model pages",
+    "original theory images and public visual assets"
+  ],
+  "exclusions": [
+    "test scoring algorithms",
+    "backend implementation",
+    "user data",
+    "databases",
+    "private internal research notes"
+  ]
+}

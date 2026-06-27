@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you cite or discuss this public record, please cite it as below."
+title: "Jungus Theory CN v1.0: Public Copyright and Priority Record"
+version: "v1.0"
+date-released: "2026-06-27"
+authors:
+  - family-names: "Cui"
+    given-names: "Zhihan"
+    orcid: "https://orcid.org/0000-0003-0883-2322"
+url: "https://www.jungus.cn/theory/"
+preferred-citation:
+  type: webpage
+  title: "Jungus Theory CN v1.0: Public Copyright and Priority Record"
+  authors:
+    - family-names: "Cui"
+      given-names: "Zhihan"
+      orcid: "https://orcid.org/0000-0003-0883-2322"
+  year: 2026
+  url: "https://www.jungus.cn/theory/"
+
