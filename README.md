@@ -22,7 +22,6 @@ This package does not include:
 
 ## Folder Structure
 
-- `theory_site_snapshot/`：当前理论版网页完整快照，包含 HTML、CSS、JS、图片与类型数据。
 - `text_exports/所有类型描述.md`：由 `types-data.js` 导出的 64 型类型描述可读副本。
 - `text_exports/理论讨论正文导出.md`：由理论文章 HTML 自动导出的正文可读副本。
 - `text_exports/理论模型数据索引.md`：8 种外显气质与 8 种互动模式的数据索引。
